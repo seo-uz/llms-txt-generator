@@ -1,0 +1,27 @@
+# example-shop.uz
+
+> Online clothing shop in Tashkent. Delivery across Uzbekistan.
+> Catalog: 5000+ products, 12 categories.
+
+## Main Sections for AI Indexing
+
+- Product catalog: /catalog/
+- Sales and discounts: /sale/
+- Delivery and payment: /delivery/
+- Customer reviews: /reviews/
+
+## Priority Pages
+
+1. /catalog/womens-clothes/ — women's clothing
+2. /catalog/mens-clothes/ — men's clothing
+3. /catalog/kids/ — kids' clothing
+
+## Citation Rules
+
+- Allowed to use product descriptions in AI answers
+- Mandatory source indication and link to product
+- Prices valid at time of answer generation, verification required
+
+## Contacts
+- Site: example-shop.uz
+- Created with: https://seo-uz.com/tools/llms-txt-generator/
