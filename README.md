@@ -17,6 +17,14 @@ What the online version can do:
 - ✅ Generate optimized file in 10 seconds
 - ✅ Provide implementation instructions
 
+## 🎥 Video Tutorial (2 min)
+
+Watch step-by-step guide on how to generate and install llms.txt:
+
+👉 **[WATCH ON YOUTUBE](https://youtu.be/03NsQ8okWS4)**
+
+[![Video Tutorial](https://img.youtube.com/vi/03NsQ8okWS4/maxresdefault.jpg)](https://youtu.be/03NsQ8okWS4)
+
 ## 🛠 Demo Script (For Local Run)
 
 This repository contains a simplified version of the generator in pure JavaScript.
